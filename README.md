@@ -194,9 +194,9 @@ Inside `docs/`, you'll find step-by-step guides for each phase of this project:
 
 ## 🧠 Author & Credits
 
-Created by **Madhukar Sammeta** — DevOps Engineer & Full Stack Developer  
+Created by **Madhukar Sammeta** — DevOps Engineer  
 🌐 Portfolio: [coming soon]  
-📧 Contact: madhukar.sammeta@example.com
+📧 Contact: sammetamadhukar1@gmail.com
 
 ---
 
